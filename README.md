@@ -61,7 +61,7 @@ typewrite(f"Hello, {name}! I see that you are currently running {system()}. How 
 
 The more accurate, the better. **You will not be given an opportunity to test the code.** You will be going off of pure theory and "educated" guesses.
 
-> [!CRITICAL]
+> [!WARNING]
 > As of September 4th, 2026, this Tryout Repository was leaked by an unknown individual. As such, an additional part will be added to this portion.
 
 As a secondary task, you must comment out redundant and/or useless code, aswell as fix any syntax/logic errors you find. The `ReverseEngineer.py` file contains some extra code that does essentially nothing towards it's purpose, or contains some syntax or logic errors.
