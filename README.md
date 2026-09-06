@@ -10,7 +10,7 @@ Here's what's up. This is the first part of your tryout. Your goal is simple; **
 
 # Reverse Engineering
 
-In this repository, you will find a script labeled `ReverseEngineer.py`. You will fork this repository by clicking on the fork button, and make changes accordingly.
+In this repository, you will find a script labeled `ReverseEngineer.py`. You will open this repository in a codespace, and make changes accordingly.
 
 Edit `ReverseEngineer.py` and comment the code as much as possible according to what you think everything does. Do not be afraid to go back and make changes; always read everything first.
 
