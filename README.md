@@ -1,4 +1,4 @@
-# TCHS Aero Tryout 9/6/26
+# TCHS Aero Tryout 9/13/26
 
 This is TCHS Aero's Software Tryout for the September 2026 season!
 
