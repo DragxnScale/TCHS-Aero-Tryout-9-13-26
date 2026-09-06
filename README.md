@@ -61,6 +61,11 @@ typewrite(f"Hello, {name}! I see that you are currently running {system()}. How 
 
 The more accurate, the better. **You will not be given an opportunity to test the code.** You will be going off of pure theory and "educated" guesses.
 
+> [!CRITICAL]
+> As of September 4th, 2026, this Tryout Repository was leaked by an unknown individual. As such, an additional part will be added to this portion.
+
+As a secondary task, you must comment out redundant and/or useless code, aswell as fix any syntax/logic errors you find. The `ReverseEngineer.py` file contains some extra code that does essentially nothing towards it's purpose, or contains some syntax or logic errors.
+If you find and fix all of these problems, you immediately pass this portion and will be considered for the team, guaranteed.
 # Individual Programming
 
 Now that you have completed the reverse engineering portion, it is time to write your own file. It does not have to be anywhere near as complex as the provided program, as the more efficient the better. 
