@@ -65,7 +65,7 @@ The more accurate, the better. **You will not be given an opportunity to test th
 > As of September 4th, 2026, this Tryout Repository was leaked by an unknown individual. As such, an additional part will be added to this portion.
 
 As a secondary task, you must comment out redundant and/or useless code, aswell as fix any syntax/logic errors you find. The `ReverseEngineer.py` file contains some extra code that does essentially nothing towards it's purpose, or contains some syntax or logic errors.
-If you find and fix all of these problems, you immediately pass this portion and will be considered for the team, guaranteed.
+If you find and fix all of these problems, aswell as show a good understanding of what the program does, you immediately pass this portion.
 # Individual Programming
 
 Now that you have completed the reverse engineering portion, it is time to write your own file. It does not have to be anywhere near as complex as the provided program, as the more efficient the better. 
