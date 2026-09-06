@@ -74,7 +74,7 @@ For context, `ReverseEngineer.py` was not designed exclusively for speed, but fo
 
 You are allowed to use the internet, and anything is fair game as long as you do not use Generative AI. This includes **Gemini Spotlight**. (See below)
 
-![Gemini Spotlight Example](https://github.com/TCHS-aero/TCHS-Aero-Tryout-9-6-26/blob/main/assets/Spotlight%20Example.png?raw=true)
+![Gemini Spotlight Example](assets/Spotlight%20Example.png)
 
 You will be guided into disabling spotlight before beginning this portion, and you will be guided to re-enable it afterwards.
 
